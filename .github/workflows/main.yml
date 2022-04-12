@@ -1,0 +1,4 @@
+- name: cffconvert
+  # You may pin to the exact commit or the version.
+  # uses: citation-file-format/cffconvert-github-action@4cf11baa70a673bfdf9dad0acc7ee33b3f4b6084
+  uses: citation-file-format/cffconvert-github-action@2.0.0
